@@ -1,4 +1,4 @@
-Xenz Multi Brute Force
+OXenz Multi Brute Force
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
@@ -19,4 +19,6 @@ git clone https://github.com/Xenz404/XMBF
 cd XMBF
 pip install -r requirements.txt
 python Run.py
+
+Key : CZSPR-RVOIV-QLMWQ-NNUNI
 ```
