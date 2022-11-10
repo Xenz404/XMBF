@@ -19,6 +19,8 @@ git clone https://github.com/Xenz404/XMBF
 cd XMBF
 pip install -r requirements.txt
 python Run.py
-
-Key : CZSPR-RVOIV-QLMWQ-NNUNI
+```
+###KEY
+```
+JZMSN-ODJKP-ICGOA-YEBHJ
 ```
