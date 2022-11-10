@@ -1,4 +1,4 @@
-OXenz Multi Brute Force
+Xenz Multi Brute Force Version 4.0.4
 --------|
 ![](https://github.com/Xenz404/XMBF/blob/main/Screenshot_20221110-120527.jpg)
 
